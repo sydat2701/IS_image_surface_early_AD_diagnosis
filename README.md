@@ -5,7 +5,7 @@
 Data_ADNI1 <br>
 |<br>
 |_ _ _ 002_S_0685<br>
-:		|_ _ _MRI.nii.gz<br>
-:		|_ _ _FDG.nii.gz<br>
+:	&nbsp;&nbsp;&nbsp;	|_ _ _MRI.nii.gz<br>
+:	&nbsp;&nbsp;&nbsp;	|_ _ _FDG.nii.gz<br>
 :<br>
 |_ _ _ 941_S_1311<br>
