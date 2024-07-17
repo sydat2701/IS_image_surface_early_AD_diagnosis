@@ -1,3 +1,3 @@
 1. This code is for review process. The final code will be updated. Because of the ADNI dataset policy, we can not public the preprocessed data. You can access this dataset from the official website.
 2. The surface data after preprocessing should be located at 'volume_student/surface'. Their respective subjectID and labels (ground truths) are located at 'volume_student/teacher/surf_ids'. The pretrained weights of surface teacher should be located at 'volume_student/teacher/teacher_weights' for training volume student. 
-3. The pretrained weights for surface teacher can be obtained if needed via email: "dat.ts2701.hust@gmail.com".
+3. Example of pretrained weights for surface teacher on ADNI23 can be obtained from this link \href{https://drive.google.com/file/d/14rFdonCqQQpq7cHNwtnZTirkTWLkMqRG/view?usp=sharing}.
