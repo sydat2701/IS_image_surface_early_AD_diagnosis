@@ -9,3 +9,6 @@ Data_ADNI1 <br>
 :	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|_ _ _FDG.nii.gz<br>
 :<br>
 |_ _ _ 941_S_1311<br>
+
+**Below, we visuallize typical cases for TP, TN, FP, FN of our model's predictions**
+![](figures/Qualitative.png)
