@@ -10,5 +10,5 @@ Data_ADNI1 <br>
 :<br>
 |_ _ _ 941_S_1311<br>
 
-**Below, we visuallize typical cases for TP, TN, FP, FN of our model's predictions**
+**Below, we visuallize typical cases for TP, TN, FP, FN of our model's predictions on ADNI1**
 ![](figures/Qualitative.png)
